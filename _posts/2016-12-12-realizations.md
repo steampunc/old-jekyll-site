@@ -4,6 +4,7 @@ comments: true
 title:  "Daily Noticings"
 exerpt: "The world is a beautiful place. Visit it sometimes!"
 date:   2016-12-12 00:00:00
+category: "Musing"
 ---
 
 Just a quick comment, I have opinons on how dates should be written, and they're reflected by [this comic][1]. Feel free to disagree, but this is how I'm writing entries into this post.
