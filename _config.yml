@@ -10,7 +10,7 @@ title: Finn's Musings
 email: finnegan.mccool@gmail.com
 description: The world's pretty cool!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://steampunc.github.io/" # the base hostname & protocol for your site
+url: "https://steampunc.github.io/index.html" # the base hostname & protocol for your site
 twitter_username: steampunc
 github_username: steampunc 
 paginate: 25

@@ -302,7 +302,7 @@ pre {
   padding: 10px;
 }
 .authorKeyword {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 16px;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -311,11 +311,11 @@ pre {
 .writtenBy {
   letter-spacing: 0;
   text-indent: 0;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .archive-intro {
   font-size: 14px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 2px;
   text-indent: 2px;
 }
@@ -323,7 +323,7 @@ pre {
   text-align: center;
 }
 .hint {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 11px;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -333,7 +333,7 @@ pre {
   padding: 10px;
 }
 .manual {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 16px;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -344,9 +344,9 @@ pre {
 }
 .postDate {
   float: left;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-family: "Source Sans Pro";
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 300;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -356,8 +356,8 @@ pre {
 }
 .postTitle {
   font-weight: 400;
-  text-align: center;
-  text-transform: uppercase;
+  text-align: left;
+  text-transform: capitalize;
   letter-spacing: 3px;
   text-indent: 3px;
 }
@@ -404,7 +404,7 @@ pre {
   padding-top: 5em;
 }
 .page-title {
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 2px;
   text-indent: 2px;
   font-family: "PT Sans";
@@ -555,7 +555,7 @@ pre {
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 16px;
 }
 .post-link {
@@ -568,39 +568,29 @@ pre {
 .post-header {
   margin-bottom: $spacing-unit;
 }
+
 .post-title {
-  font-size: 62px;
+  font-size: 3rem;
 
   text-align: center;
   font-family: "PT Sans";
   font-weight: 900;
-  @include media-query($on-laptop) {
-    font-size: 36px;
-  }
 }
+
 .post-content {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
   p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   h2 {
-    font-size: 32px;
-    @include media-query($on-laptop) {
-      font-size: 28px;
-    }
+    font-size: 1.7rem;
   }
   h3 {
-    font-size: 26px;
-    @include media-query($on-laptop) {
-      font-size: 22px;
-    }
+    font-size: 1.5rem;
   }
   h4 {
-    font-size: 20px;
-    @include media-query($on-laptop) {
-      font-size: 18px;
-    }
+    font-size: 1.3rem;
   }
 }
 
