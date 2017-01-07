@@ -13,6 +13,6 @@ This was a really good learning experience for me, as I think it solidified my u
 
 
 
-[1]:{{steampunc.github.io}}/attachments/StateSpace.pdf
+[1]:{{ site.url }}/attachments/StateSpace.pdf
 
 
