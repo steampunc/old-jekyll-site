@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Infinite Compositions of Sine"
 exerpt: "This originated from an interesting conversation with my math teacher."
-date:   2017-1-2 00:00:00
+date:   2016-12-31 00:00:00
 category: "Post"
 ---
 
