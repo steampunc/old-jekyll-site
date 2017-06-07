@@ -105,5 +105,5 @@ If you enjoyed reading that, or would like to see the original paper I wrote, yo
 
 ---
 
-[1]:{{ site.url }}/attachments/MotionProfiling.pdf
+[1]:{{ site.url }}/attachments/profiling/MotionProfiling.pdf
 [2]:https://github.com/steampunc/toy-box/tree/master/drivetrain_modelling
