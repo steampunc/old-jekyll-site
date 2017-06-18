@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Motion Profiling Controllers"
 excerpt: "Reduce strain on your systems! Only a little math!"
-date:   2017-6-4 00:00:00
+date:   2017-4-7 00:00:00
 category: "Post"
 ---
 
