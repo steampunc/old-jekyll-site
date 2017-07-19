@@ -15,6 +15,6 @@ twitter_username: steampunc
 github_username: steampunc 
 paginate: 10
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
