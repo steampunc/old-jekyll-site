@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Voluntary Solitary Pt. 2"
 excerpt: "I locked myself in a room."
-date:   2017-6-20 00:00:00
+date:   2017-6-21 00:00:00
 category: "Post"
 ---
 

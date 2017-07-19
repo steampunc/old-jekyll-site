@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 comments: true
 title:  "Voluntary Solitary Pt. 1"
