@@ -29,6 +29,8 @@ These are links to miscellaneous things that I've enjoyed reading and don't want
 
 **[Introduction to Kalman Filters][7]** \- Going with the control theory theme is this paper giving a brief overview of Kalman filters, which can be used in controls to take a noisy system and reduce the noise through an observer, which compares a model of the system to the read position and ends up being _very_ helpful. I'm forever getting a better understanding of controls, so this description might get revised.
 
+**[Natural Language Processing][8]** \- Super cool
+
 
 
 
