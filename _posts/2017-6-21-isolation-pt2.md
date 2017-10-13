@@ -7,7 +7,7 @@ date:   2017-6-21 00:00:00
 category: "Post"
 ---
 
-This is the second part to my experience in isolation, if you haven't read the first part, [click here!]({{ site.url }}/post/2017/06/19/isolation-pt1.html)
+This is the second part to my experience in isolation, if you haven't read the first part, [click here!]({{ site.url }}/post/2017/06/20/isolation-pt1.html)
 
 #### Day Four
 

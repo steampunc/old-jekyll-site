@@ -176,4 +176,4 @@ Wow, this got a lot longer than I thought it would be, so I'm going to split it 
 
 
 [1]:{{ site.url }}/attachments/isolation/journal.pdf
-[2]:{{ site.url }}/post/2017/06/20/isolation-pt2.html
+[2]:{{ site.url }}/post/2017/06/21/isolation-pt2.html
