@@ -11,7 +11,7 @@ These are links to miscellaneous things that I've enjoyed reading and don't want
 
 ***Web Series***
 
-**[XKCD][1]** \- By Randall Munroe and pretty much the source of all the references I make. It also brings up some interesting philosophical questions, and isn't just a comic strip.
+**[XKCD][1]** \- By Randall Munroe and pretty much the source of all the references I make. It brings up some interesting philosophical questions, and isn't just a comic strip.
 
 **[Order of the Stick][2]** \- A great D&D webcomic that breaks the fourth wall quite frequently, and while it's at it, breaks the third and second walls too. It's pretty funny, but the producer has been suffering a chronic illness and hasn't been updating it as frequently as he used to.
 
