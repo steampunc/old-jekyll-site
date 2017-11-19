@@ -8,7 +8,7 @@ category: "Songs"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329433698&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-This was the first real song I made that wasn't a random improvisation or only had one instrument. The soundcloud link doesn't really do it justice because it reduced the quality of the audio a lot, so the overtones and weird artifacts that I was hearing and felt like it added a lot to the song isn't really there. Thankfully, the download link on soundcloud still provides the full quality audio recording, it's just that it transcodes the audio to a 128 kbps mp3 for the player, so if you're interested in hearing the better quality version, download it!
+This was the first real song I made that wasn't a random improvisation or only had one instrument. It might not be all that good, but I like it because it was the first. The soundcloud link doesn't really do it justice because it reduced the quality of the audio a lot, so the overtones and weird artifacts that I was hearing and felt like it added a lot to the song isn't really there. Thankfully, the download link on soundcloud still provides the full quality audio recording, it's just that it transcodes the audio to a 128 kbps mp3 for the player, so if you're interested in hearing the better quality version, download it!
 
 <br>
 
