@@ -2,6 +2,6 @@
 layout: musing_page 
 title: Musings
 permalink: /musings/
-tagline: "Every day I notice at least one thing. Here they are!"
+tagline: "What I'm noticing or thinking about that doesn't warrant a full post at any given moment"
 category: "Musing"
 ---
