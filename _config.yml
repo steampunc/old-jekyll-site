@@ -1,16 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Finn Boire
-email: finnegan.mccool@gmail.com
+email: finn.boire@gmail.com
 description: The world's pretty cool!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://steampunc.github.io/" # the base hostname & protocol for your site
+url: "https://steampunc.github.io/"
 twitter_username: steampunc
 github_username: steampunc 
 paginate: 10
